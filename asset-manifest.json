@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/100daysofcode-wp/static/css/main.09e6d0d5.chunk.css",
+    "main.css": "/100daysofcode-wp/static/css/main.a4bea461.chunk.css",
     "main.js": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js",
     "main.js.map": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js.map",
     "runtime-main.js": "/100daysofcode-wp/static/js/runtime-main.83898fae.js",
@@ -8,16 +8,15 @@
     "static/js/2.00d714d6.chunk.js": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js",
     "static/js/2.00d714d6.chunk.js.map": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.map",
     "index.html": "/100daysofcode-wp/index.html",
-    "precache-manifest.36f56e45103886197d8b829b067e5782.js": "/100daysofcode-wp/precache-manifest.36f56e45103886197d8b829b067e5782.js",
+    "precache-manifest.53bf68f649b7f2d412d646d0921e09f5.js": "/100daysofcode-wp/precache-manifest.53bf68f649b7f2d412d646d0921e09f5.js",
     "service-worker.js": "/100daysofcode-wp/service-worker.js",
-    "static/css/main.09e6d0d5.chunk.css.map": "/100daysofcode-wp/static/css/main.09e6d0d5.chunk.css.map",
-    "static/js/2.00d714d6.chunk.js.LICENSE": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.LICENSE",
-    "static/media/App.css": "/100daysofcode-wp/static/media/bg-100daysofcode_edited.5c2e2284.png"
+    "static/css/main.a4bea461.chunk.css.map": "/100daysofcode-wp/static/css/main.a4bea461.chunk.css.map",
+    "static/js/2.00d714d6.chunk.js.LICENSE": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.83898fae.js",
     "static/js/2.00d714d6.chunk.js",
-    "static/css/main.09e6d0d5.chunk.css",
+    "static/css/main.a4bea461.chunk.css",
     "static/js/main.6f76911f.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d64acdd12eb5f016bba48f2793484d0e",
+    "revision": "b9d8d296789871ed4b6db80ba3d34758",
     "url": "/100daysofcode-wp/index.html"
   },
   {
-    "revision": "65ced25d2869ee9c196c",
-    "url": "/100daysofcode-wp/static/css/main.09e6d0d5.chunk.css"
+    "revision": "da890db077698dd98cb7",
+    "url": "/100daysofcode-wp/static/css/main.a4bea461.chunk.css"
   },
   {
     "revision": "04ca35fd3d33e83ed3e8",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.LICENSE"
   },
   {
-    "revision": "65ced25d2869ee9c196c",
+    "revision": "da890db077698dd98cb7",
     "url": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js"
   },
   {
     "revision": "3ba165643024b33e67dc",
     "url": "/100daysofcode-wp/static/js/runtime-main.83898fae.js"
-  },
-  {
-    "revision": "5c2e228422b02da327552d5bd1e6335f",
-    "url": "/100daysofcode-wp/static/media/bg-100daysofcode_edited.5c2e2284.png"
   }
 ]);
