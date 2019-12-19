@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/100daysofcode-wp/precache-manifest.db0c6bf3122a1ed0aeaa9b936c98c8bc.js"
+  "/100daysofcode-wp/precache-manifest.36f56e45103886197d8b829b067e5782.js"
 );
 
 self.addEventListener('message', (event) => {
