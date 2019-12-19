@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d64acdd12eb5f016bba48f2793484d0e",
+    "revision": "8e1072707aefb319e9f3da65eb76d197",
     "url": "/100daysofcode-wp/index.html"
   },
   {
-    "revision": "65ced25d2869ee9c196c",
+    "revision": "7cea9d2800f4b2cd966a",
     "url": "/100daysofcode-wp/static/css/main.09e6d0d5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.LICENSE"
   },
   {
-    "revision": "65ced25d2869ee9c196c",
-    "url": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js"
+    "revision": "7cea9d2800f4b2cd966a",
+    "url": "/100daysofcode-wp/static/js/main.3eb8cb33.chunk.js"
   },
   {
     "revision": "3ba165643024b33e67dc",
