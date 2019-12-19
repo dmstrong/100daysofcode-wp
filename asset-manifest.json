@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/100daysofcode-wp/static/css/main.a4bea461.chunk.css",
-    "main.js": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js",
-    "main.js.map": "/100daysofcode-wp/static/js/main.6f76911f.chunk.js.map",
+    "main.js": "/100daysofcode-wp/static/js/main.93d705cd.chunk.js",
+    "main.js.map": "/100daysofcode-wp/static/js/main.93d705cd.chunk.js.map",
     "runtime-main.js": "/100daysofcode-wp/static/js/runtime-main.83898fae.js",
     "runtime-main.js.map": "/100daysofcode-wp/static/js/runtime-main.83898fae.js.map",
-    "static/js/2.00d714d6.chunk.js": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js",
-    "static/js/2.00d714d6.chunk.js.map": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.map",
+    "static/js/2.439c069b.chunk.js": "/100daysofcode-wp/static/js/2.439c069b.chunk.js",
+    "static/js/2.439c069b.chunk.js.map": "/100daysofcode-wp/static/js/2.439c069b.chunk.js.map",
     "index.html": "/100daysofcode-wp/index.html",
-    "precache-manifest.53bf68f649b7f2d412d646d0921e09f5.js": "/100daysofcode-wp/precache-manifest.53bf68f649b7f2d412d646d0921e09f5.js",
+    "precache-manifest.6ab8d17c97fc872ed979c9c45fb387af.js": "/100daysofcode-wp/precache-manifest.6ab8d17c97fc872ed979c9c45fb387af.js",
     "service-worker.js": "/100daysofcode-wp/service-worker.js",
     "static/css/main.a4bea461.chunk.css.map": "/100daysofcode-wp/static/css/main.a4bea461.chunk.css.map",
-    "static/js/2.00d714d6.chunk.js.LICENSE": "/100daysofcode-wp/static/js/2.00d714d6.chunk.js.LICENSE"
+    "static/js/2.439c069b.chunk.js.LICENSE": "/100daysofcode-wp/static/js/2.439c069b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.83898fae.js",
-    "static/js/2.00d714d6.chunk.js",
+    "static/js/2.439c069b.chunk.js",
     "static/css/main.a4bea461.chunk.css",
-    "static/js/main.6f76911f.chunk.js"
+    "static/js/main.93d705cd.chunk.js"
   ]
 }
