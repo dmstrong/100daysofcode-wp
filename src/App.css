@@ -1,38 +1,79 @@
-.App {
+p {
+  padding: 0;
+}
+
+body {
+  background-image: url(./assets/bg-100daysofcode_edited.png);
+  background-size: contain;
+}
+
+.deck {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.app {
+  padding: 10px;
+}
+
+.app .jumbotron {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app .card {
+  margin-right: 3px;
+  margin-bottom: 15px;
+  padding-bottom: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.app .card-header {
   color: white;
+  background-color: blue;
+  font-weight: bold;
+  min-height: 70px;
+  height: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.App-link {
-  color: #61dafb;
+.app .card-body {
+  min-width: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.app .card-text {
+}
+
+.app .card-text:hover {
+}
+
+.center {
+  text-align: center;
+}
+
+/* MEDIA QUERY */
+
+/* Small devices (portrait tablets and large phones, 476px and below) */
+@media only screen and (max-width: 475px) {
+  .app .card {
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
+  .app .card-header {
+    height: auto;
+    min-height: 40px;
+  }
+}
+
+/* Medium devices (landscape tablets, 476px and up) */
+@media only screen and (min-width: 476px) {
+  .app .card {
+    width: 49%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .app .card {
+    width: 32%;
   }
 }
